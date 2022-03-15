@@ -1,0 +1,11 @@
+{
+    "name": "bitprotolib",
+    "version": "0.4.5",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/solarcaratuva/bitproto.git"
+    },
+    "export": {
+        "include": ["lib/c/*", "license-bsd3.rst"]
+    }
+}
