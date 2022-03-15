@@ -1,6 +1,6 @@
 {
     "name": "bitprotolib",
-    "version": "0.4.5",
+    "version": "0.4.5patch1",
     "repository": {
         "type": "git",
         "url": "https://github.com/solarcaratuva/bitproto.git"
